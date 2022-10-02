@@ -16,14 +16,10 @@ class Solver:
         """
         # theoretically, the next final positions produced out of the current ones must be reachable
         # in at most two steps. Thus, theoretically they belong to the interval specified below
-
         new_pos_final = range(max(w_current) - 2, max(min(w_current) - 2 * self.step, self.min_pos) - 1, -1)
-
         # remove elements that are already final positions
         new_pos_final = [x for x in new_pos_final if x not in w_current]
-
         new_final = []  # list to save the new final positions
-
         # iterate through the new possible final positions
         for pos in new_pos_final:
             # iterate through the possible first steps:
@@ -39,10 +35,8 @@ class Solver:
                             # a move "j" from the 2nd player, the 1st player will be in a non-final position
                             add = False
                             break
-
                     if add:
-                        new_final.append(pos)
-                        # the existence of a single "i" is sufficient, break form the loop
+                        new_final.append(pos)  # the existence of a single "i" is sufficient, break form the loop
                         break
         return new_final
 
@@ -168,7 +162,3 @@ class SpoilerBot:
             move = self.__spoiler_advisory(current_pos)
 
         return move
-
-
-# if __name__ == "__main__":
-#     s = Solver
