@@ -1,14 +1,3 @@
-def position_reachable(pos1: int, pos2: int, step: int):
-    """This function returns whether one position is reachable from the other position in one given step
-
-    Args:
-        pos1 (int): the first position
-        pos2 (int): the second position, the order does not matter as the absolute value is considered for flexibility
-        step (int): the step in question
-    """
-    return abs(pos1 - pos2) <= step
-
-
 def next_final_positions(min_position: int, step: int, w_current: set):
     """This function performs one step in the backward induction: it finds the final positions
     out of the current final positions

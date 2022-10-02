@@ -1,0 +1,49 @@
+Game started at 2022-10-02 14:44:26.540733
+step: 36
+range: [1, 2036]
+starting position: 1800
+Duplicator's mode: advisor
+Game's log: 
+
+[Duplicator]: 1800, 14 --> 1814
+
+[Spoiler]: 1814, 35 --> 1849
+
+[Spoiler's advice]: THE BOT LEFT YOU THIS MESSAGE:
+Well ! it seems that you can win this game!!
+Make sure you move to the position 1851
+
+[Duplicator]: 1849, 2 --> 1851
+
+[Spoiler]: 1851, 34 --> 1885
+
+[Spoiler's advice]: THE BOT LEFT YOU THIS MESSAGE:
+Well ! it seems that you can win this game!!
+Make sure you move to the position 1888
+
+[Duplicator]: 1885, 3 --> 1888
+
+[Spoiler]: 1888, 5 --> 1893
+
+[Spoiler's advice]: THE BOT LEFT YOU THIS MESSAGE:
+Well ! it seems that you can win this game!!
+Make sure you move to the position 1925
+
+[Duplicator]: 1893, 32 --> 1925
+
+[Spoiler]: 1925, 21 --> 1946
+
+[Spoiler's advice]: THE BOT LEFT YOU THIS MESSAGE:
+Well ! it seems that you can win this game!!
+Make sure you move to the position 1962
+
+[Duplicator]: 1946, 18 --> 1964
+
+[Spoiler]: 1964, 35 --> 1999
+
+[Duplicator]: 1999, 1 --> 2000
+
+[Spoiler]: 2000, 36 --> 2036
+
+GAME OVER!!
+spoiler WINS!!

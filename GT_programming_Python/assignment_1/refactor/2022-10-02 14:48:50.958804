@@ -1,0 +1,51 @@
+Game started at 2022-10-02 14:48:50.958804
+step: 20
+range: [1, 2021]
+starting position: 1800
+Duplicator's mode: smart
+Game's log: 
+
+[Duplicator]: 1800, 11 --> 1811
+
+[Spoiler]: 1811, 14 --> 1825
+
+[Duplicator]: 1825, 7 --> 1832
+
+[Spoiler]: 1832, 7 --> 1839
+
+[Duplicator]: 1839, 14 --> 1853
+
+[Spoiler]: 1853, 2 --> 1855
+
+[Duplicator]: 1855, 19 --> 1874
+
+[Spoiler]: 1874, 5 --> 1879
+
+[Duplicator]: 1879, 16 --> 1895
+
+[Spoiler]: 1895, 2 --> 1897
+
+[Duplicator]: 1897, 19 --> 1916
+
+[Spoiler]: 1916, 10 --> 1926
+
+[Duplicator]: 1926, 11 --> 1937
+
+[Spoiler]: 1937, 20 --> 1957
+
+[Duplicator]: 1957, 1 --> 1958
+
+[Spoiler]: 1958, 5 --> 1963
+
+[Duplicator]: 1963, 16 --> 1979
+
+[Spoiler]: 1979, 15 --> 1994
+
+[Duplicator]: 1994, 6 --> 2000
+
+[Spoiler]: 2000, 14 --> 2014
+
+[Duplicator]: 2014, 7 --> 2021
+
+GAME OVER!!
+duplicator WINS!!
